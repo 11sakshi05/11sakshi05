@@ -5,6 +5,8 @@
 
 - 🌱 I’m currently learning **Frameworks like Flask and Django**
 
+- 📝 I regularly upload my notes and projects on [https://sakshikhaire.wordpress.com](https://sakshikhaire.wordpress.com)
+
 - 💬 Ask me about **python java flask**
 
 - 📫 How to reach me **khairesakshi05@gmail.com**
