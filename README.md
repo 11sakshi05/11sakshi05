@@ -12,32 +12,25 @@
 
 ---
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
-
 ### 🚀 About Me
 
-```python
-class Sakshi:
-    def __init__(self):
-        self.username = "11sakshi05"
-        self.role = "AI & Data Science Student"
-        self.location = "India"
-        self.current_focus = ["Flask", "Django", "ML"]
-        self.hobbies = ["Coding", "Learning", "Building"]
-    
-    def say_hi(self):
-        print("Thanks for dropping by! Let's build something amazing together!")
+<div align="left">
 
-me = Sakshi()
-me.say_hi()
-```
+🎓 **AI & Data Science Student** passionate about building intelligent solutions
 
-- 🔭 Currently working on **[Expense Tracker](https://expense-tracker-ltt4.onrender.com/dashboard)**
-- 🌱 Learning **Flask, Django, Data Visualization & Machine Learning**
-- 📝 Sharing knowledge at **[sakshikhaire.wordpress.com](https://sakshikhaire.wordpress.com)**
-- 💬 Ask me about **Python, Java, Flask, Web Development**
-- 📫 Reach me: **khairesakshi05@gmail.com**
-- ⚡ Fun fact: **I turn coffee into code!**
+🔭 Currently working on **[Expense Tracker](https://expense-tracker-ltt4.onrender.com/dashboard)** - A smart finance management app
+
+🌱 Learning **Flask, Django, Data Visualization & Machine Learning**
+
+📝 Sharing my learning journey at **[sakshikhaire.wordpress.com](https://sakshikhaire.wordpress.com)**
+
+💬 Ask me about **Python, Java, Flask, Web Development**
+
+📫 Reach me: **khairesakshi05@gmail.com**
+
+⚡ Fun fact: **I turn coffee into code!** ☕→💻
+
+</div>
 
 ---
 
@@ -89,24 +82,12 @@ me.say_hi()
 ### 📊 GitHub Statistics
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=11sakshi05&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=6366f1&icon_color=8b5cf6&text_color=c9d1d9" alt="Sakshi's GitHub Stats" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=11sakshi05&theme=radical&hide_border=true&background=0D1117&ring=6366f1&fire=8b5cf6&currStreakLabel=c9d1d9" alt="Sakshi's Streak Stats" />
+   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=11sakshi05&theme=radical&hide_border=true&background=0D1117&ring=6366f1&fire=8b5cf6&currStreakLabel=c9d1d9" alt="Sakshi's Streak Stats" />
 </div>
 
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=11sakshi05&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=6366f1&text_color=c9d1d9" alt="Top Languages" />
-  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=11sakshi05&theme=react-dark&hide_border=true&area=true&bg_color=0D1117&color=6366f1&line=8b5cf6&point=c9d1d9" alt="Contribution Graph" />
-</div>
 
 ---
 
-### 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=11sakshi05&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
-</div>
-
----
 
 ### 🎯 Current Learning Journey
 
